@@ -47,15 +47,14 @@ Captured logs show:
 
 ## Provided Resources
 The following files were provided for the activity and used for analysis:
-- **Wireshark TCP/HTTP Log (Raw)** – 📄 [](./Wireshark_TCP_HTTP_log.pdf)  
-- **Wireshark TCP/HTTP Log – Color Coded** – 📄 [](./Wireshark_TCP_HTTP_log-Color_coded_TCP_log.pdf)  
+- **Wireshark TCP/HTTP Log (Raw)** – 📄 [View PDF](./Wireshark_TCP_HTTP_log.pdf)  
+- **Wireshark TCP/HTTP Log – Color Coded** – 📄 [View PDF](./Wireshark_TCP_HTTP_log-Color_coded_TCP_log.pdf)  
 
 ---
 
 ## Deliverables
-- **Attack Analysis Report** – 📄 [Download PDF](./SYN_Flood_Attack_Analysis.pdf)
+- **SYN Flood Attack Analysis Report** – 📄 [View PDF](./SYN_Flood_Attack_Analysis.pdf)  
   Includes identification of the SYN flood attack, explanation of TCP handshake exploitation, and analysis of attack impact on server availability.
-
 ---
 
 ## Skills Demonstrated
