@@ -34,6 +34,3 @@ The scope also includes reviewing current **user permissions**, **implemented co
 ## Conclusion
 This audit represents a critical step in ensuring Botium Toys is prepared to identify, mitigate, and manage cybersecurity risks. By addressing vulnerabilities, aligning operations with industry frameworks, and implementing stronger controls, the organization will reduce exposure to threats, protect its assets and customer data, and reinforce stakeholder trust. The findings and recommendations from this assessment will act as a roadmap for sustaining and continuously improving Botium Toys’ cybersecurity posture.
 
----
-
-**📄 Supporting Document:** [Download PDF Report](./BotiumToys_Audit.pdf)
