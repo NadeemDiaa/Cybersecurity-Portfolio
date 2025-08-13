@@ -63,7 +63,7 @@ The potential impact from asset loss is considered *medium* because the IT depar
 
 - **Controls and Compliance Checklist**  
   Completed checklist assessing Botium Toys’ adherence to security controls and compliance best practices, including prioritized recommendations for improvement.  
-  📄 [Download PDF](./Controls_and_Compliance_Checklist.pdf)
+  📄 [Download PDF](./Controls_and_compliance_checklist.pdf)
 
 - **Stakeholder Memorandum**  
   Formal communication sent to Botium Toys stakeholders summarizing the audit findings, identified risks, and actionable recommendations.  
