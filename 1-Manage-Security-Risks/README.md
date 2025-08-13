@@ -1,68 +1,66 @@
 # Organizational Security Audit – Botium Toys
 
 ## Summary
-Botium Toys is undergoing a cybersecurity audit with the primary goal of assessing its overall security program, aligning it with industry standards and best practices, and providing mitigation recommendations for vulnerabilities classified as *high risk*. The audit also aims to present an overarching strategy for enhancing the organization’s security posture. The audit team is responsible for documenting findings, providing remediation plans, and maintaining clear, consistent communication with stakeholders.
+Botium Toys is undergoing a cybersecurity audit with the primary goal of evaluating its overall security program, ensuring alignment with industry standards, and identifying vulnerabilities that pose a high risk to the organization. The audit also aims to provide clear, actionable recommendations and a long-term strategy to strengthen Botium Toys’ security posture.
 
 ---
 
 ## Scope
-The audit scope is defined as the **entire security program** at Botium Toys. This encompasses all assets, infrastructure, and internal processes, including:
+This audit covers the **entire IT infrastructure and security program** at Botium Toys, including the assessment of all assets, internal processes, and procedures related to control implementation and compliance practices.
 
-- **On-premises business equipment** for in-office operations  
-- **Employee equipment** such as desktops, laptops, smartphones, remote workstations, headsets, cables, keyboards, mice, docking stations, and surveillance cameras  
-- **Storefront products** available for in-person and online retail, stored in the company’s adjoining warehouse  
-- **Systems, software, and services** including accounting, telecommunication, database, security, e-commerce, and inventory management  
-- **Internet access** and network connectivity points  
-- **Internal network** architecture and security controls  
-- **Data retention and storage** solutions and associated policies  
-- **Legacy system maintenance** for end-of-life systems requiring human oversight  
-
-The scope also includes reviewing current **user permissions**, **implemented controls**, and **established procedures** across core systems, ensuring alignment with applicable compliance requirements, and verifying accountability of all technology assets.
+**Assets in Scope:**
+- **On-premises equipment** used for in-office business operations  
+- **Employee devices**: desktops, laptops, smartphones, remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras  
+- **Storefront products** available for retail sale in-store and online, stored in the adjoining warehouse  
+- **Systems, software, and services**: accounting, telecommunications, databases, security tools, e-commerce, and inventory management  
+- **Internet access** and internal network infrastructure  
+- **Data retention and storage** practices  
+- **Legacy systems** requiring human monitoring and maintenance
 
 ---
 
 ## Goals
-- **Adherence to NIST Cybersecurity Framework (NIST CSF):** Align Botium Toys’ security practices with NIST CSF to establish a strong cybersecurity foundation.  
-- **Process Improvement for Compliance:** Develop effective processes to ensure systems meet all relevant regulations and standards.  
-- **Fortification of System Controls:** Strengthen technical and administrative controls to enhance the organization’s security posture.  
-- **Implementation of Least Privilege:** Apply least-privilege principles to user account management, granting only the access necessary for each role.  
-- **Policy and Procedure Establishment:** Create and document comprehensive cybersecurity policies, procedures, and incident response playbooks.  
-- **Compliance Assurance:** Confirm that all systems, processes, and controls meet required compliance standards to protect sensitive data and maintain regulatory adherence.
+- Assess existing assets and complete the controls and compliance checklist.  
+- Identify controls and best practices needed to improve the security posture.  
+- Ensure alignment with the **NIST Cybersecurity Framework (CSF)**.  
+- Strengthen system controls and access management.  
+- Establish policies, procedures, and incident response playbooks.  
+- Maintain full compliance with applicable U.S. and international regulations.  
 
 ---
 
 ## Risk Assessment
 
 **Risk Description**  
-Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards.
+Botium Toys lacks adequate asset management and several essential security controls, placing it at risk of non-compliance with both U.S. and international standards.  
 
 **Control Best Practices**  
-The first of the five functions of the NIST CSF is *Identify*. Botium Toys will need to dedicate resources to identify assets so they can appropriately manage them. Additionally, they will need to classify existing assets and determine the impact of the loss of existing assets, including systems, on business continuity.
+In line with the NIST CSF’s *Identify* function, Botium Toys should classify all assets, evaluate their criticality, and determine the potential impact of their loss on business continuity.
 
 **Risk Score**  
-On a scale of 1 to 10, the risk score is **8** (high) due to a lack of controls and adherence to compliance best practices.
+**8/10** – High risk, due to missing controls and incomplete compliance measures.  
 
 **Additional Comments**  
-The potential impact from the loss of an asset is rated as *medium* because the IT department does not know which assets would be at risk. The risk to assets or fines from governing bodies is *high* because Botium Toys does not have all necessary controls in place and is not fully adhering to compliance regulations that safeguard critical data.  
+The potential impact from asset loss is considered *medium* because the IT department does not have a full inventory of at-risk assets. However, the risk of regulatory penalties or sensitive data exposure is *high* due to missing compliance safeguards.  
 
-**Specific Findings:**
-- All employees currently have access to internally stored data and may be able to access cardholder data and customers’ PII/SPII.  
-- No encryption is used for customers’ credit card information accepted, processed, transmitted, and stored locally.  
-- Access controls for least privilege and separation of duties are not implemented.  
-- IT department has ensured availability and integrated controls to maintain data integrity.  
-- Firewall in place with well-defined security rules.  
-- Antivirus software installed and regularly monitored.  
-- No intrusion detection system (IDS) implemented.  
-- No disaster recovery plans or critical data backups in place.  
-- EU breach notification process established within 72 hours.  
-- Privacy policies and procedures in place, enforced across IT and other staff.  
-- Existing password policy does not meet current complexity requirements.  
-- No centralized password management system, leading to delays in password resets.  
-- Legacy systems monitored and maintained, but without a formal schedule or defined intervention process.  
-- Physical premises have strong security measures: locks, CCTV, fire detection, and prevention systems.
+**Specific Details:**
+- All employees have access to internally stored data, including cardholder data and customers’ PII/SPII.  
+- No encryption for stored or transmitted credit card data.  
+- Least privilege and separation of duties not implemented.  
+- Data integrity controls in place; firewall properly configured.  
+- Antivirus software installed and monitored.  
+- No intrusion detection system (IDS) deployed.  
+- No disaster recovery plan or critical data backups in place.  
+- EU breach notification policy in place (72-hour requirement).  
+- Privacy policies and procedures are documented and enforced.  
+- Password policy exists but lacks strong complexity requirements.  
+- No centralized password management system.  
+- Legacy systems maintained without a formal schedule or procedures.  
+- Physical premises secured with locks, CCTV, and fire prevention systems.
 
 ---
 
 ## Conclusion
-This audit represents a critical step in ensuring Botium Toys is prepared to identify, mitigate, and manage cybersecurity risks. By addressing vulnerabilities, aligning operations with industry frameworks, and implementing stronger controls, the organization will reduce exposure to threats, protect its assets and customer data, and reinforce stakeholder trust. The findings and recommendations from this assessment will act as a roadmap for sustaining and continuously improving Botium Toys’ cybersecurity posture.
+This audit highlights significant risks in Botium Toys’ current security posture, primarily stemming from insufficient controls and non-compliance with established best practices. Immediate remediation is necessary to mitigate these risks, safeguard sensitive data, and ensure adherence to regulatory standards. The recommendations from this assessment should serve as a roadmap for continuous improvement and long-term cybersecurity resilience.
 
+---
