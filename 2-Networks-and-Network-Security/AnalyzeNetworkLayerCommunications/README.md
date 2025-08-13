@@ -43,7 +43,7 @@ The following resource was provided as part of the activity for analysis purpose
 
 ## Deliverables
 - **Cybersecurity Incident Report – Network Traffic Analysis**  
-  📄 [Download PDF](./Cybersecurity_incident_report_network_traffic_analysis.pdf)
+  📄 [View PDF](./Cybersecurity_incident_report_network_traffic_analysis.pdf)
 
 ---
 
