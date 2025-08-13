@@ -59,7 +59,16 @@ The potential impact from asset loss is considered *medium* because the IT depar
 - Physical premises secured with locks, CCTV, and fire prevention systems.
 
 ---
+## Deliverables
 
+- **Controls and Compliance Checklist**  
+  Completed checklist assessing Botium Toys’ adherence to security controls and compliance best practices, including prioritized recommendations for improvement.  
+  📄 [Download PDF](./Controls_and_Compliance_Checklist.pdf)
+
+- **Stakeholder Memorandum**  
+  Formal communication sent to Botium Toys stakeholders summarizing the audit findings, identified risks, and actionable recommendations.  
+  📄 [Download PDF](./BotiumToys_StakeholderMemorandum.pdf)
+---
 ## Conclusion
 This audit highlights significant risks in Botium Toys’ current security posture, primarily stemming from insufficient controls and non-compliance with established best practices. Immediate remediation is necessary to mitigate these risks, safeguard sensitive data, and ensure adherence to regulatory standards. The recommendations from this assessment should serve as a roadmap for continuous improvement and long-term cybersecurity resilience.
 
