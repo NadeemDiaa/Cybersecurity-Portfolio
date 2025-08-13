@@ -35,10 +35,13 @@ The `tcpdump` analysis revealed that UDP packets to the DNS server (port 53) res
 
 ---
 
-## Deliverables
-- **Network Traffic Log (tcpdump output)**  
-  ![TCPDump Log](./tcpdump_log.png)
+## Provided Resources
+The following resource was provided as part of the activity for analysis purposes:  
+- **Network Traffic Log (tcpdump output)** – `tcpdump_log.png`  
 
+---
+
+## Deliverables
 - **Cybersecurity Incident Report – Network Traffic Analysis**  
   📄 [Download PDF](./Cybersecurity_incident_report_network_traffic_analysis.pdf)
 
@@ -46,7 +49,7 @@ The `tcpdump` analysis revealed that UDP packets to the DNS server (port 53) res
 
 ## Skills Demonstrated
 - Network protocol analysis (DNS, UDP, ICMP)
-- Use of `tcpdump` for packet capture and inspection
+- Use of `tcpdump` for packet inspection
 - Incident verification and hypothesis development
 - Technical reporting and documentation
 
