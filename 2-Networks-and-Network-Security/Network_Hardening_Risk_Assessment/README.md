@@ -40,7 +40,7 @@ The following hardening tools and methods were selected for implementation:
 ---
 
 ## Provided Resources
-- **Security Risk Assessment Report** – 📄 [View PDF](./Social_Media_Organization_Network_Hardening_assessment_report.pdf.pdf)  
+- **Security Risk Assessment Report** – 📄 [View PDF](./Social_Media_Organization_Network_Hardening_assessment_report.pdf)  
   Includes detailed recommendations on MFA, password policies, and firewall maintenance.
 
 ---
